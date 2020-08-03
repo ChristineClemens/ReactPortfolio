@@ -8,7 +8,7 @@ import Portfolio from "./pages/Portfolio";
 // import Contact from "./pages/Contact";
 // import Cards from "./components/Cards";
 // import ContactBox from "./components/ContactBox";
-// import Footer from "./components/Footer"; 
+import Footer from "./components/Footer"; 
 // import MapInfo from "./components/MapInfo";
 import NavBar from "./components/NavBar";
 // import Project from "./components/Project";
@@ -22,6 +22,7 @@ function App() {
         <Route exact path = "/" component = {About} />
         <Route exact path = "/Portfolio" component = {Portfolio} />
         {/* <Route exact path = "/Contact" component = {Contact} /> */}
+        <Footer />
       </div>
     </Router>
   );
