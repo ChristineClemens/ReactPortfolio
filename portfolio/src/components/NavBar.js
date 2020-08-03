@@ -1,10 +1,5 @@
 import React from "react";
 import {Link, useLocation} from "react-router-dom";
-import {BrowserRouter as Router, Route } from "react-router-dom";
-import React, { useEffect } from 'react';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
-import './App.css';
 
 function NavBar(props) {
     const location = useLocation();
@@ -15,7 +10,7 @@ function NavBar(props) {
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/1200px-Circle-icons-dev.svg.png" 
                 width="30" 
                 height="30" 
-                className="d-inline-block align-top" 
+                className="d-inline-block align-top mr-2" 
                 alt="CC Logo" 
                 loading="lazy" />
                 Christine Clemens
@@ -24,15 +19,15 @@ function NavBar(props) {
             <nav>
                 <ul className="nav">
                     <li className="nav-item active">
-                        <Link className="nav-link tealText" to="/index.html">About<span className="sr-only">(current)</span></Link>
+                        <Link className="nav-link tealText" to="/">About<span className="sr-only">(current)</span></Link>
                     </li>
                     <hr />
                     <li className="nav-item active">
-                        <Link className="nav-link tealText" to="/portfolio.html">Portfolio</Link>
+                        <Link className="nav-link tealText" to="/portfolio">Portfolio</Link>
                     </li>
                     <hr />
                     <li className="nav-item active">
-                        <Link className="nav-link tealText" to="/contact.html">Contact</Link>
+                        <Link className="nav-link tealText" to="/contact">Contact</Link>
                     </li>
                 </ul>
             </nav>
