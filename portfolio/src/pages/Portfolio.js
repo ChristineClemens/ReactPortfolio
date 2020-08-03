@@ -43,7 +43,7 @@ const projects = [
         github: "https://github.com/ChristineClemens/EmployeeSummaryEngine"
     },
     {
-        image: "./assets/BurgerLogger.png",
+        image: "https://github.com/ChristineClemens/ReactPortfolio/blob/master/portfolio/public/assets/BurgerLogger.PNG?raw=true",
         title: "Burger Logger",
         animation: "fade-up-left",
         description: "A simple handlebars rendered application that tracks sandwich orders using MySQL and express.js api calls.",
