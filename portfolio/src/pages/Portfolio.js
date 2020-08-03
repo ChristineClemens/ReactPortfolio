@@ -11,44 +11,44 @@ const projects = [
         github: "https://github.com/ChristineClemens/TheSemicolons"
     },
     {
-        image: "./assets/PageExchange.png",
-        title: "PageExchange",
-        animation: "fade-down-right",
-        description: "A collaborative full-stack share community project that allows for users to contribute to and participate in the circulation of used books.",
-        deployed: "https://obscure-stream-03506.herokuapp.com/",
-        github: "https://github.com/ChristineClemens/TheSemicolons"
+        image: "./assets/WeatherDashboard.png",
+        title: "Weather Dashboard",
+        animation: "fade-down",
+        description: "A simple weather application that displays both local weather and weather for searched locations using the Open Weather API.",
+        deployed: "https://christineclemens.github.io/WeatherDashboard/",
+        github: "https://github.com/ChristineClemens/WeatherDashboard"
     },
     {
-        image: "./assets/PageExchange.png",
-        title: "PageExchange",
-        animation: "fade-down-right",
-        description: "A collaborative full-stack share community project that allows for users to contribute to and participate in the circulation of used books.",
-        deployed: "https://obscure-stream-03506.herokuapp.com/",
-        github: "https://github.com/ChristineClemens/TheSemicolons"
+        image: "./assets/README Generator Screenshot.png",
+        title: "README.md Generator",
+        animation: "fade-down-left",
+        description: "A Node.js application that employs express.js to generate README.md files according to user specifications.",
+        deployed: "https://christineclemens.github.io/AboutMe/portfolio.html",
+        github: "https://github.com/ChristineClemens/READMEGenerator"
     },
     {
-        image: "./assets/PageExchange.png",
-        title: "PageExchange",
-        animation: "fade-down-right",
-        description: "A collaborative full-stack share community project that allows for users to contribute to and participate in the circulation of used books.",
-        deployed: "https://obscure-stream-03506.herokuapp.com/",
-        github: "https://github.com/ChristineClemens/TheSemicolons"
+        image: "./assets/nutShell.png",
+        title: "nutShell",
+        animation: "fade-up-right",
+        description: "A collaborative dashboard application design that consolidates multiple daily organization tools into one convenient space.",
+        deployed: "https://christineclemens.github.io/Project1-nutShell/",
+        github: "https://github.com/ChristineClemens/Project1-nutShell"
     },
     {
-        image: "./assets/PageExchange.png",
-        title: "PageExchange",
-        animation: "fade-down-right",
-        description: "A collaborative full-stack share community project that allows for users to contribute to and participate in the circulation of used books.",
-        deployed: "https://obscure-stream-03506.herokuapp.com/",
-        github: "https://github.com/ChristineClemens/TheSemicolons"
+        image: "./assets/SampleTeamPage.png",
+        title: "Sample Team Page",
+        animation: "fade-up",
+        description: "A Node.js application that generates an html file to display a team summary according to user specifications.",
+        deployed: "https://christineclemens.github.io/AboutMe/portfolio.html",
+        github: "https://github.com/ChristineClemens/EmployeeSummaryEngine"
     },
     {
-        image: "./assets/PageExchange.png",
-        title: "PageExchange",
-        animation: "fade-down-right",
-        description: "A collaborative full-stack share community project that allows for users to contribute to and participate in the circulation of used books.",
-        deployed: "https://obscure-stream-03506.herokuapp.com/",
-        github: "https://github.com/ChristineClemens/TheSemicolons"
+        image: "./assets/BurgerLogger.png",
+        title: "Burger Logger",
+        animation: "fade-up-left",
+        description: "A simple handlebars rendered application that tracks sandwich orders using MySQL and express.js api calls.",
+        deployed: "https://infinite-badlands-97982.herokuapp.com/",
+        github: "https://github.com/ChristineClemens/BurgerLogger"
     },
 ]
 
