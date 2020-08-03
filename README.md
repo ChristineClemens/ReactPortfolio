@@ -1,5 +1,4 @@
 # ReactPortfolio
-# EmployeeManagementSystem
 
 ### Description
 This is a React rendered version of my original, updated portfolio webpage, used to further develop a responsive portfolio website that included an "About", "Portfolio", and "Contact" webpage along with my personalized information. Likewise, this project was an opportunity for me to apply the HTML5, CSS3 styling, Bootstrap scaffolding, and typography know-how developed previously in class. The ultimate goal of this website will be to update it intermittently throughout the course of Bootcamp to apply new knowledge, ultimately resulting in a fully developed user-friendly portfolio website.
