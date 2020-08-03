@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ChristineClemens/ReactPortfolio#readme",
   "dependencies": {
     "serve": "^11.3.2"
+  },
+  "engines": {
+    "node": "12.18.0"
   }
 }
