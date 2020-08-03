@@ -9,7 +9,6 @@ import Contact from "./pages/Contact";
 // import Cards from "./components/Cards";
 // import ContactBox from "./components/ContactBox";
 import Footer from "./components/Footer"; 
-// import MapInfo from "./components/MapInfo";
 import NavBar from "./components/NavBar";
 // import Project from "./components/Project";
 

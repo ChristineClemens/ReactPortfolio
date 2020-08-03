@@ -17,7 +17,7 @@ const Contact = () => {
                         If you'd like to get in touch to discuss collaboration, employment, or your own inquiry, please 
                         feel free to contact me below as I'd love to hear from you!
                     </p>
-                    <ContactBox></ContactBox>
+                    <ContactBox />
                 </section>
             </div>
         </div>
